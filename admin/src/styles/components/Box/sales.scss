@@ -1,0 +1,78 @@
+@import "../../main/variables.scss";
+@import "../../responsive.scss";
+
+.salesContainer{
+    position: relative;
+
+    .duration{
+        font-size: 14px;
+        font-weight: bold;
+        color:$soft-color;
+        padding-top: 10px;
+        position: absolute;
+        right: 0;
+    }
+
+    .sales{
+        display: flex;
+        justify-content: space-between;
+        height: 100%;
+    
+        .salesInfo{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+    
+            .amountContainer{
+                display: flex;
+                align-items: center;
+                gap: 8px;
+            }
+            .amountIcon{
+                padding: 7px;
+                border-radius: 5px;
+                background-color: $dark-color;
+                color: $soft-bg;
+            }
+            .amount{
+                font-weight: bolder;
+                font-size: larger;
+            }
+        }
+    
+        .percentageInfo{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            position: relative;
+            
+            .more-icon {
+                position: absolute;
+                top: 0;
+                right: 0;
+              }
+            .percentage{
+                display: flex;
+                gap: 5px;
+                position: absolute;
+                right: 0;
+                bottom: 0;
+                padding-bottom: 7px;
+                font-weight: bold;
+            }
+
+            
+            @include md {
+                .percentage {
+                    display: none;
+                }
+            }
+            @include sm {
+                .percentage {
+                    display: none;
+                }
+            }
+        }
+    }
+
+}
