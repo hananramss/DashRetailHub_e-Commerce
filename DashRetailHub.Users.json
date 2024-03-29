@@ -1,0 +1,265 @@
+[{
+  "_id": {
+    "$oid": "65fe9b42b393e7d151cdd575"
+  },
+  "firstname": "John",
+  "lastname": "Doe",
+  "email": "john.doe@example.com",
+  "phone": "0924567890",
+  "createdAt": {
+    "$date": "2022-03-23T00:00:00.000Z"
+  },
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fe9b42b393e7d151cdd576"
+  },
+  "firstname": "Jane",
+  "lastname": "Doe",
+  "email": "jane.doe@example.com",
+  "phone": "09123456781",
+  "createdAt": {
+    "$date": "2022-03-24T00:00:00.000Z"
+  },
+  "verified": false
+},
+{
+  "_id": {
+    "$oid": "65fe9b42b393e7d151cdd577"
+  },
+  "firstname": "Alice",
+  "lastname": "Smith",
+  "email": "alice.smith@example.com",
+  "phone": "09651541155",
+  "createdAt": {
+    "$date": "2022-03-25T00:00:00.000Z"
+  },
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fea13b4f635b8beffa3f91"
+  },
+  "firstname": "Zamzam",
+  "lastname": "Ramos",
+  "email": "zamzamramos@gmail.com",
+  "phone": "09785642344",
+  "createdAt": {
+    "$date": "2024-03-12T00:00:00.000Z"
+  },
+  "verified": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fee51f64158369baef61e8"
+  },
+  "firstname": "Hanan",
+  "lastname": "Ramos",
+  "email": "hanan.ramos@g.msuiit.edu.ph",
+  "phone": "09651541155",
+  "createdAt": {
+    "$date": "2024-03-12T00:00:00.000Z"
+  },
+  "verified": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fef53f4799ac2454068e5d"
+  },
+  "firstname": "Bob",
+  "lastname": "Johnson",
+  "email": "bob.johnson@example.com",
+  "phone": "5551234567",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": false
+},
+{
+  "_id": {
+    "$oid": "65fef53f4799ac2454068e5e"
+  },
+  "firstname": "Emily",
+  "lastname": "Brown",
+  "email": "emily.brown@example.com",
+  "phone": "7779876543",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fef53f4799ac2454068e5f"
+  },
+  "firstname": "Michael",
+  "lastname": "Wilson",
+  "email": "michael.wilson@example.com",
+  "phone": "4445678901",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": false
+},
+{
+  "_id": {
+    "$oid": "65fef53f4799ac2454068e60"
+  },
+  "firstname": "Emma",
+  "lastname": "Martinez",
+  "email": "emma.martinez@example.com",
+  "phone": "2223334444",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fef53f4799ac2454068e61"
+  },
+  "firstname": "William",
+  "lastname": "Taylor",
+  "email": "william.taylor@example.com",
+  "phone": "9998887777",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fef53f4799ac2454068e62"
+  },
+  "firstname": "Olivia",
+  "lastname": "Anderson",
+  "email": "olivia.anderson@example.com",
+  "phone": "3335557777",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": false
+},
+{
+  "_id": {
+    "$oid": "65fef53f4799ac2454068e63"
+  },
+  "firstname": "James",
+  "lastname": "Thomas",
+  "email": "james.thomas@example.com",
+  "phone": "6667778888",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fef53f4799ac2454068e64"
+  },
+  "firstname": "Sophia",
+  "lastname": "Garcia",
+  "email": "sophia.garcia@example.com",
+  "phone": "1112223333",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fef5644799ac2454068e66"
+  },
+  "firstname": "David",
+  "lastname": "Rodriguez",
+  "email": "david.rodriguez@example.com",
+  "phone": "7778889999",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": false
+},
+{
+  "_id": {
+    "$oid": "65fef5644799ac2454068e67"
+  },
+  "firstname": "Isabella",
+  "lastname": "Lopez",
+  "email": "isabella.lopez@example.com",
+  "phone": "1112223333",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fef5644799ac2454068e68"
+  },
+  "firstname": "Daniel",
+  "lastname": "Hernandez",
+  "email": "daniel.hernandez@example.com",
+  "phone": "5554443333",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fef5644799ac2454068e69"
+  },
+  "firstname": "Mia",
+  "lastname": "Gonzalez",
+  "email": "mia.gonzalez@example.com",
+  "phone": "8889990000",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fef5644799ac2454068e6a"
+  },
+  "firstname": "Ethan",
+  "lastname": "Perez",
+  "email": "ethan.perez@example.com",
+  "phone": "2223334444",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": false
+},
+{
+  "_id": {
+    "$oid": "65fef5644799ac2454068e6b"
+  },
+  "firstname": "Ava",
+  "lastname": "Sanchez",
+  "email": "ava.sanchez@example.com",
+  "phone": "6665554444",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fef5644799ac2454068e6c"
+  },
+  "firstname": "Alexander",
+  "lastname": "Ramirez",
+  "email": "alexander.ramirez@example.com",
+  "phone": "9998887777",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fef5644799ac2454068e6d"
+  },
+  "firstname": "Charlotte",
+  "lastname": "Torres",
+  "email": "charlotte.torres@example.com",
+  "phone": "4445556666",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": false
+},
+{
+  "_id": {
+    "$oid": "65fef5644799ac2454068e6e"
+  },
+  "firstname": "Noah",
+  "lastname": "Flores",
+  "email": "noah.flores@example.com",
+  "phone": "7778889999",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+},
+{
+  "_id": {
+    "$oid": "65fef5644799ac2454068e6f"
+  },
+  "firstname": "Amelia",
+  "lastname": "Rivera",
+  "email": "amelia.rivera@example.com",
+  "phone": "3334445555",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "verified": true
+}]

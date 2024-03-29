@@ -1,0 +1,450 @@
+[{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ece"
+  },
+  "ExpenseDate": "2023-05-15T09:30:00.000Z",
+  "ExpenseCategory": "Office Supplies",
+  "Description": "Purchase of printer cartridges",
+  "Amount": 150
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ecf"
+  },
+  "ExpenseDate": "2023-06-20T14:45:00.000Z",
+  "ExpenseCategory": "Travel",
+  "Description": "Airfare for business trip",
+  "Amount": 500
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ed0"
+  },
+  "ExpenseDate": "2023-07-10T11:20:00.000Z",
+  "ExpenseCategory": "Utilities",
+  "Description": "Monthly electricity bill",
+  "Amount": 200
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ed1"
+  },
+  "ExpenseDate": "2023-08-05T10:00:00.000Z",
+  "ExpenseCategory": "Marketing",
+  "Description": "Advertisement campaign",
+  "Amount": 300
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ed2"
+  },
+  "ExpenseDate": "2023-09-12T12:30:00.000Z",
+  "ExpenseCategory": "Maintenance",
+  "Description": "Repair of office equipment",
+  "Amount": 250
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ed3"
+  },
+  "ExpenseDate": "2024-01-10T08:15:00.000Z",
+  "ExpenseCategory": "Office Supplies",
+  "Description": "Purchase of stationery",
+  "Amount": 100
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ed4"
+  },
+  "ExpenseDate": "2024-02-18T13:00:00.000Z",
+  "ExpenseCategory": "Travel",
+  "Description": "Hotel accommodation for conference",
+  "Amount": 800
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ed5"
+  },
+  "ExpenseDate": "2024-03-25T10:45:00.000Z",
+  "ExpenseCategory": "Utilities",
+  "Description": "Internet service provider bill",
+  "Amount": 120
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ed6"
+  },
+  "ExpenseDate": "2024-04-05T11:30:00.000Z",
+  "ExpenseCategory": "Marketing",
+  "Description": "Social media advertising",
+  "Amount": 400
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ed7"
+  },
+  "ExpenseDate": "2024-05-20T14:00:00.000Z",
+  "ExpenseCategory": "Maintenance",
+  "Description": "Servicing of office air conditioning",
+  "Amount": 300
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ed8"
+  },
+  "ExpenseDate": "2023-10-15T09:30:00.000Z",
+  "ExpenseCategory": "Office Supplies",
+  "Description": "Purchase of printer paper",
+  "Amount": 50
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ed9"
+  },
+  "ExpenseDate": "2023-11-20T14:45:00.000Z",
+  "ExpenseCategory": "Travel",
+  "Description": "Taxi fare for client meeting",
+  "Amount": 70
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068eda"
+  },
+  "ExpenseDate": "2023-12-10T11:20:00.000Z",
+  "ExpenseCategory": "Utilities",
+  "Description": "Water bill for office",
+  "Amount": 80
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068edb"
+  },
+  "ExpenseDate": "2023-11-05T10:00:00.000Z",
+  "ExpenseCategory": "Marketing",
+  "Description": "Print advertisement",
+  "Amount": 120
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068edc"
+  },
+  "ExpenseDate": "2023-10-12T12:30:00.000Z",
+  "ExpenseCategory": "Maintenance",
+  "Description": "Replacement of office chairs",
+  "Amount": 200
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068edd"
+  },
+  "ExpenseDate": "2024-06-10T08:15:00.000Z",
+  "ExpenseCategory": "Office Supplies",
+  "Description": "Purchase of toner cartridges",
+  "Amount": 120
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ede"
+  },
+  "ExpenseDate": "2024-07-18T13:00:00.000Z",
+  "ExpenseCategory": "Travel",
+  "Description": "Train tickets for team retreat",
+  "Amount": 250
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068edf"
+  },
+  "ExpenseDate": "2024-08-25T10:45:00.000Z",
+  "ExpenseCategory": "Utilities",
+  "Description": "Gas bill for office heating",
+  "Amount": 90
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ee0"
+  },
+  "ExpenseDate": "2024-09-05T11:30:00.000Z",
+  "ExpenseCategory": "Marketing",
+  "Description": "Online advertising campaign",
+  "Amount": 180
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ee1"
+  },
+  "ExpenseDate": "2024-10-20T14:00:00.000Z",
+  "ExpenseCategory": "Maintenance",
+  "Description": "Repair of office computers",
+  "Amount": 300
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ee2"
+  },
+  "ExpenseDate": "2023-01-05T09:30:00.000Z",
+  "ExpenseCategory": "Office Supplies",
+  "Description": "Purchase of printer ink",
+  "Amount": 40
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ee3"
+  },
+  "ExpenseDate": "2023-02-15T14:45:00.000Z",
+  "ExpenseCategory": "Travel",
+  "Description": "Hotel accommodation for conference",
+  "Amount": 200
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ee4"
+  },
+  "ExpenseDate": "2023-03-20T11:20:00.000Z",
+  "ExpenseCategory": "Utilities",
+  "Description": "Electricity bill for office",
+  "Amount": 120
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ee5"
+  },
+  "ExpenseDate": "2023-04-10T10:00:00.000Z",
+  "ExpenseCategory": "Marketing",
+  "Description": "Social media advertising",
+  "Amount": 150
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ee6"
+  },
+  "ExpenseDate": "2023-05-12T12:30:00.000Z",
+  "ExpenseCategory": "Maintenance",
+  "Description": "Repair of office air conditioning",
+  "Amount": 300
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ee7"
+  },
+  "ExpenseDate": "2023-06-10T08:15:00.000Z",
+  "ExpenseCategory": "Office Supplies",
+  "Description": "Purchase of stationery",
+  "Amount": 50
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ee8"
+  },
+  "ExpenseDate": "2023-07-18T13:00:00.000Z",
+  "ExpenseCategory": "Travel",
+  "Description": "Flight tickets for business trip",
+  "Amount": 350
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ee9"
+  },
+  "ExpenseDate": "2023-08-25T10:45:00.000Z",
+  "ExpenseCategory": "Utilities",
+  "Description": "Internet bill for office",
+  "Amount": 90
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068eea"
+  },
+  "ExpenseDate": "2023-09-05T11:30:00.000Z",
+  "ExpenseCategory": "Marketing",
+  "Description": "Printed brochures for promotion",
+  "Amount": 100
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068eeb"
+  },
+  "ExpenseDate": "2023-10-20T14:00:00.000Z",
+  "ExpenseCategory": "Maintenance",
+  "Description": "Renovation of office restroom",
+  "Amount": 400
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068eec"
+  },
+  "ExpenseDate": "2024-01-05T09:30:00.000Z",
+  "ExpenseCategory": "Office Supplies",
+  "Description": "Purchase of printer paper",
+  "Amount": 30
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068eed"
+  },
+  "ExpenseDate": "2024-02-15T14:45:00.000Z",
+  "ExpenseCategory": "Travel",
+  "Description": "Taxi fare for client meeting",
+  "Amount": 70
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068eee"
+  },
+  "ExpenseDate": "2024-03-20T11:20:00.000Z",
+  "ExpenseCategory": "Utilities",
+  "Description": "Water bill for office",
+  "Amount": 80
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068eef"
+  },
+  "ExpenseDate": "2024-04-10T10:00:00.000Z",
+  "ExpenseCategory": "Marketing",
+  "Description": "Print advertisement",
+  "Amount": 120
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ef0"
+  },
+  "ExpenseDate": "2024-05-12T12:30:00.000Z",
+  "ExpenseCategory": "Maintenance",
+  "Description": "Replacement of office chairs",
+  "Amount": 200
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ef1"
+  },
+  "ExpenseDate": "2024-06-10T08:15:00.000Z",
+  "ExpenseCategory": "Office Supplies",
+  "Description": "Purchase of toner cartridges",
+  "Amount": 120
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ef2"
+  },
+  "ExpenseDate": "2024-07-18T13:00:00.000Z",
+  "ExpenseCategory": "Travel",
+  "Description": "Train tickets for team retreat",
+  "Amount": 250
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ef3"
+  },
+  "ExpenseDate": "2024-08-25T10:45:00.000Z",
+  "ExpenseCategory": "Utilities",
+  "Description": "Gas bill for office heating",
+  "Amount": 90
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ef4"
+  },
+  "ExpenseDate": "2024-09-05T11:30:00.000Z",
+  "ExpenseCategory": "Marketing",
+  "Description": "Online advertising campaign",
+  "Amount": 180
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ef5"
+  },
+  "ExpenseDate": "2024-10-20T14:00:00.000Z",
+  "ExpenseCategory": "Maintenance",
+  "Description": "Repair of office computers",
+  "Amount": 300
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ef6"
+  },
+  "ExpenseDate": "2023-11-15T09:00:00.000Z",
+  "ExpenseCategory": "Office Supplies",
+  "Description": "Purchase of printer toner",
+  "Amount": 50
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ef7"
+  },
+  "ExpenseDate": "2023-12-20T14:30:00.000Z",
+  "ExpenseCategory": "Travel",
+  "Description": "Parking fees for business trip",
+  "Amount": 30
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ef8"
+  },
+  "ExpenseDate": "2023-11-25T11:15:00.000Z",
+  "ExpenseCategory": "Utilities",
+  "Description": "Phone bill for office",
+  "Amount": 60
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068ef9"
+  },
+  "ExpenseDate": "2023-12-05T12:30:00.000Z",
+  "ExpenseCategory": "Marketing",
+  "Description": "Promotional merchandise",
+  "Amount": 70
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068efa"
+  },
+  "ExpenseDate": "2023-11-10T08:00:00.000Z",
+  "ExpenseCategory": "Maintenance",
+  "Description": "Cleaning service for office",
+  "Amount": 100
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068efb"
+  },
+  "ExpenseDate": "2024-11-15T09:00:00.000Z",
+  "ExpenseCategory": "Office Supplies",
+  "Description": "Purchase of office furniture",
+  "Amount": 200
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068efc"
+  },
+  "ExpenseDate": "2024-12-20T14:30:00.000Z",
+  "ExpenseCategory": "Travel",
+  "Description": "Flight tickets for team offsite",
+  "Amount": 400
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068efd"
+  },
+  "ExpenseDate": "2024-11-25T11:15:00.000Z",
+  "ExpenseCategory": "Utilities",
+  "Description": "Internet bill for office",
+  "Amount": 80
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068efe"
+  },
+  "ExpenseDate": "2024-12-05T12:30:00.000Z",
+  "ExpenseCategory": "Marketing",
+  "Description": "Sponsorship for industry event",
+  "Amount": 300
+},
+{
+  "_id": {
+    "$oid": "65fef9224799ac2454068eff"
+  },
+  "ExpenseDate": "2024-11-10T08:00:00.000Z",
+  "ExpenseCategory": "Maintenance",
+  "Description": "Repair of office equipment",
+  "Amount": 150
+}]

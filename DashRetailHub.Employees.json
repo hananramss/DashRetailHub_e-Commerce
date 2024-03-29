@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "65fef9784799ac2454068f02"
+  },
+  "FirstName": "John",
+  "LastName": "Doe",
+  "Position": "Software Engineer",
+  "Department": "Engineering",
+  "HireDate": "2021-05-15T00:00:00.000Z",
+  "Salary": 70000
+},
+{
+  "_id": {
+    "$oid": "65fef9784799ac2454068f03"
+  },
+  "FirstName": "Jane",
+  "LastName": "Smith",
+  "Position": "Marketing Manager",
+  "Department": "Marketing",
+  "HireDate": "2020-10-20T00:00:00.000Z",
+  "Salary": 80000
+},
+{
+  "_id": {
+    "$oid": "65fef9784799ac2454068f04"
+  },
+  "FirstName": "Michael",
+  "LastName": "Johnson",
+  "Position": "Sales Representative",
+  "Department": "Sales",
+  "HireDate": "2022-02-10T00:00:00.000Z",
+  "Salary": 60000
+},
+{
+  "_id": {
+    "$oid": "65fef9784799ac2454068f05"
+  },
+  "FirstName": "Emily",
+  "LastName": "Brown",
+  "Position": "HR Manager",
+  "Department": "Human Resources",
+  "HireDate": "2023-01-05T00:00:00.000Z",
+  "Salary": 75000
+},
+{
+  "_id": {
+    "$oid": "65fef9784799ac2454068f06"
+  },
+  "FirstName": "David",
+  "LastName": "Wilson",
+  "Position": "Finance Analyst",
+  "Department": "Finance",
+  "HireDate": "2021-09-30T00:00:00.000Z",
+  "Salary": 85000
+},
+{
+  "_id": {
+    "$oid": "65fef9784799ac2454068f07"
+  },
+  "FirstName": "Sarah",
+  "LastName": "Clark",
+  "Position": "Operations Supervisor",
+  "Department": "Operations",
+  "HireDate": "2022-11-12T00:00:00.000Z",
+  "Salary": 70000
+},
+{
+  "_id": {
+    "$oid": "65fef9784799ac2454068f08"
+  },
+  "FirstName": "Ryan",
+  "LastName": "Taylor",
+  "Position": "Customer Service Representative",
+  "Department": "Customer Service",
+  "HireDate": "2023-03-18T00:00:00.000Z",
+  "Salary": 55000
+},
+{
+  "_id": {
+    "$oid": "65fef9784799ac2454068f09"
+  },
+  "FirstName": "Amanda",
+  "LastName": "Martinez",
+  "Position": "Product Manager",
+  "Department": "Product Management",
+  "HireDate": "2020-12-08T00:00:00.000Z",
+  "Salary": 90000
+},
+{
+  "_id": {
+    "$oid": "65fef9784799ac2454068f0a"
+  },
+  "FirstName": "Jason",
+  "LastName": "Garcia",
+  "Position": "Quality Assurance Engineer",
+  "Department": "Quality Assurance",
+  "HireDate": "2022-06-25T00:00:00.000Z",
+  "Salary": 65000
+},
+{
+  "_id": {
+    "$oid": "65fef9784799ac2454068f0b"
+  },
+  "FirstName": "Rachel",
+  "LastName": "Lee",
+  "Position": "Graphic Designer",
+  "Department": "Design",
+  "HireDate": "2023-05-10T00:00:00.000Z",
+  "Salary": 60000
+}]

@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "65fef3e57419dc7202b1b898"
+  },
+  "title": "Laptop",
+  "color": "Red",
+  "pricePHP": 13000,
+  "producer": "Dell",
+  "createdAt": {
+    "$date": "2024-03-27T00:00:00.000Z"
+  },
+  "inStock": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e2d"
+  },
+  "title": "Smartphone",
+  "color": "Black",
+  "pricePHP": 15000,
+  "producer": "Samsung",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e2e"
+  },
+  "title": "Tablet",
+  "color": "Silver",
+  "pricePHP": 8000,
+  "producer": "Apple",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e2f"
+  },
+  "title": "Smartwatch",
+  "color": "Blue",
+  "pricePHP": 5000,
+  "producer": "Fitbit",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e30"
+  },
+  "title": "Printer",
+  "color": "Grey",
+  "pricePHP": 6000,
+  "producer": "HP",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e31"
+  },
+  "title": "External Hard Drive",
+  "color": "Black",
+  "pricePHP": 4000,
+  "producer": "Seagate",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": false
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e32"
+  },
+  "title": "Gaming Console",
+  "color": "Black",
+  "pricePHP": 25000,
+  "producer": "Microsoft",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e33"
+  },
+  "title": "Wireless Mouse",
+  "color": "Red",
+  "pricePHP": 1000,
+  "producer": "Logitech",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e34"
+  },
+  "title": "Camera",
+  "color": "Black",
+  "pricePHP": 18000,
+  "producer": "Canon",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": false
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e35"
+  },
+  "title": "Headphones",
+  "color": "White",
+  "pricePHP": 2000,
+  "producer": "Sony",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e36"
+  },
+  "title": "Desk Lamp",
+  "color": "Silver",
+  "pricePHP": 800,
+  "producer": "IKEA",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e37"
+  },
+  "title": "Backpack",
+  "color": "Blue",
+  "pricePHP": 1000,
+  "producer": "JanSport",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e38"
+  },
+  "title": "Mouse",
+  "color": "Black",
+  "pricePHP": 500,
+  "producer": "Logitech",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e39"
+  },
+  "title": "Keyboard",
+  "color": "White",
+  "pricePHP": 1000,
+  "producer": "Razer",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e3a"
+  },
+  "title": "Coffee Maker",
+  "color": "Black",
+  "pricePHP": 3000,
+  "producer": "Keurig",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e3b"
+  },
+  "title": "Wireless Earbuds",
+  "color": "White",
+  "pricePHP": 2500,
+  "producer": "Apple",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e3c"
+  },
+  "title": "Portable Charger",
+  "color": "Gray",
+  "pricePHP": 700,
+  "producer": "Anker",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e3d"
+  },
+  "title": "Printer",
+  "color": "White",
+  "pricePHP": 5000,
+  "producer": "HP",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e3e"
+  },
+  "title": "External Hard Drive",
+  "color": "Black",
+  "pricePHP": 3000,
+  "producer": "Seagate",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e3f"
+  },
+  "title": "Notebooks",
+  "color": "Assorted",
+  "pricePHP": 100,
+  "producer": "Moleskine",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e40"
+  },
+  "title": "Pens",
+  "color": "Black",
+  "pricePHP": 50,
+  "producer": "Pilot",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e41"
+  },
+  "title": "Stapler",
+  "color": "Silver",
+  "pricePHP": 200,
+  "producer": "Swingline",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e42"
+  },
+  "title": "Scissors",
+  "color": "Red",
+  "pricePHP": 100,
+  "producer": "Fiskars",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e43"
+  },
+  "title": "Tape Dispenser",
+  "color": "Black",
+  "pricePHP": 150,
+  "producer": "3M",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e44"
+  },
+  "title": "Highlighters",
+  "color": "Assorted",
+  "pricePHP": 80,
+  "producer": "Sharpie",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e45"
+  },
+  "title": "Desk Organizer",
+  "color": "White",
+  "pricePHP": 400,
+  "producer": "IKEA",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "65fef4dc4799ac2454068e46"
+  },
+  "title": "Paper Clips",
+  "color": "Silver",
+  "pricePHP": 20,
+  "producer": "Officemate",
+  "createdAt": "2024-03-27T00:00:00.000Z",
+  "inStock": true
+}]

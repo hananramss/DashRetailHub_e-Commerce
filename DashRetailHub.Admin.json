@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "65fe9c13b393e7d151cdd581"
+  },
+  "username": "Hanan Ramos",
+  "email": "hananramos@gmail.com",
+  "password": "hanan1234"
+},
+{
+  "_id": {
+    "$oid": "65fe9d184f635b8beffa3f57"
+  },
+  "username": "test",
+  "email": "test@gmail.com",
+  "password": "$2a$10$WXRe5SUgWz4u1h5Bu9Yn3.Xff1a91Sf8PIuFFOBG3cqqJkwJbT3m2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff04279b6dd891fad1cac2"
+  },
+  "username": "Jessy J",
+  "email": "jessyj@gmail.com",
+  "password": "$2a$10$noqdp8QHFf5bDdAzP2.AR..3eWtZlZMLJt3KJKdsl8h0kvVE3wzAu",
+  "__v": 0
+}]

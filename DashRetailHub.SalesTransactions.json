@@ -1,0 +1,689 @@
+[{
+  "_id": {
+    "$oid": "65fef8284799ac2454068e97"
+  },
+  "InvoiceNo": 1001,
+  "InvoiceDate": "2023-01-03T08:30:00.000Z",
+  "DayOfWeek": "Tuesday",
+  "StockCode": "SC001",
+  "Description": "Laptop",
+  "Quantity": 2,
+  "UnitPrice": 1000,
+  "CustomerID": 101
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068e98"
+  },
+  "InvoiceNo": 1002,
+  "InvoiceDate": "2023-02-15T12:45:00.000Z",
+  "DayOfWeek": "Wednesday",
+  "StockCode": "SC002",
+  "Description": "Smartphone",
+  "Quantity": 1,
+  "UnitPrice": 800,
+  "CustomerID": 102
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068e99"
+  },
+  "InvoiceNo": 1003,
+  "InvoiceDate": "2023-03-28T09:15:00.000Z",
+  "DayOfWeek": "Monday",
+  "StockCode": "SC003",
+  "Description": "Tablet",
+  "Quantity": 3,
+  "UnitPrice": 500,
+  "CustomerID": 103
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068e9a"
+  },
+  "InvoiceNo": 1004,
+  "InvoiceDate": "2023-04-10T13:30:00.000Z",
+  "DayOfWeek": "Wednesday",
+  "StockCode": "SC007",
+  "Description": "Bluetooth Speaker",
+  "Quantity": 2,
+  "UnitPrice": 80,
+  "CustomerID": 107
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068e9b"
+  },
+  "InvoiceNo": 1005,
+  "InvoiceDate": "2023-05-20T10:45:00.000Z",
+  "DayOfWeek": "Thursday",
+  "StockCode": "SC008",
+  "Description": "Wireless Keyboard",
+  "Quantity": 1,
+  "UnitPrice": 50,
+  "CustomerID": 108
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068e9c"
+  },
+  "InvoiceNo": 1006,
+  "InvoiceDate": "2023-06-14T15:20:00.000Z",
+  "DayOfWeek": "Friday",
+  "StockCode": "SC009",
+  "Description": "External Hard Drive",
+  "Quantity": 3,
+  "UnitPrice": 120,
+  "CustomerID": 109
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068e9d"
+  },
+  "InvoiceNo": 1007,
+  "InvoiceDate": "2023-07-30T09:00:00.000Z",
+  "DayOfWeek": "Monday",
+  "StockCode": "SC010",
+  "Description": "Portable Charger",
+  "Quantity": 2,
+  "UnitPrice": 25,
+  "CustomerID": 110
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068e9e"
+  },
+  "InvoiceNo": 1008,
+  "InvoiceDate": "2023-08-25T12:10:00.000Z",
+  "DayOfWeek": "Tuesday",
+  "StockCode": "SC011",
+  "Description": "USB Flash Drive",
+  "Quantity": 4,
+  "UnitPrice": 15,
+  "CustomerID": 111
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068e9f"
+  },
+  "InvoiceNo": 1009,
+  "InvoiceDate": "2023-09-18T14:50:00.000Z",
+  "DayOfWeek": "Wednesday",
+  "StockCode": "SC012",
+  "Description": "Gaming Mouse",
+  "Quantity": 2,
+  "UnitPrice": 60,
+  "CustomerID": 112
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ea0"
+  },
+  "InvoiceNo": 1010,
+  "InvoiceDate": "2023-10-05T11:15:00.000Z",
+  "DayOfWeek": "Thursday",
+  "StockCode": "SC013",
+  "Description": "Bluetooth Earphones",
+  "Quantity": 1,
+  "UnitPrice": 40,
+  "CustomerID": 113
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ea1"
+  },
+  "InvoiceNo": 1011,
+  "InvoiceDate": "2023-11-20T13:40:00.000Z",
+  "DayOfWeek": "Friday",
+  "StockCode": "SC014",
+  "Description": "Wireless Mouse",
+  "Quantity": 3,
+  "UnitPrice": 35,
+  "CustomerID": 114
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ea2"
+  },
+  "InvoiceNo": 1012,
+  "InvoiceDate": "2023-12-12T10:00:00.000Z",
+  "DayOfWeek": "Monday",
+  "StockCode": "SC015",
+  "Description": "Laptop Cooling Pad",
+  "Quantity": 2,
+  "UnitPrice": 20,
+  "CustomerID": 115
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ea3"
+  },
+  "InvoiceNo": 1013,
+  "InvoiceDate": "2023-12-30T09:30:00.000Z",
+  "DayOfWeek": "Tuesday",
+  "StockCode": "SC016",
+  "Description": "HDMI Cable",
+  "Quantity": 5,
+  "UnitPrice": 10,
+  "CustomerID": 116
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ea4"
+  },
+  "InvoiceNo": 1014,
+  "InvoiceDate": "2023-12-30T14:20:00.000Z",
+  "DayOfWeek": "Wednesday",
+  "StockCode": "SC017",
+  "Description": "Wireless Headphones",
+  "Quantity": 2,
+  "UnitPrice": 50,
+  "CustomerID": 117
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ea5"
+  },
+  "InvoiceNo": 1015,
+  "InvoiceDate": "2023-11-15T12:05:00.000Z",
+  "DayOfWeek": "Thursday",
+  "StockCode": "SC018",
+  "Description": "Computer Monitor",
+  "Quantity": 1,
+  "UnitPrice": 200,
+  "CustomerID": 118
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ea6"
+  },
+  "InvoiceNo": 1016,
+  "InvoiceDate": "2023-10-28T13:15:00.000Z",
+  "DayOfWeek": "Friday",
+  "StockCode": "SC019",
+  "Description": "Portable SSD",
+  "Quantity": 2,
+  "UnitPrice": 80,
+  "CustomerID": 119
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ea7"
+  },
+  "InvoiceNo": 1017,
+  "InvoiceDate": "2023-09-05T14:40:00.000Z",
+  "DayOfWeek": "Monday",
+  "StockCode": "SC020",
+  "Description": "Graphics Card",
+  "Quantity": 1,
+  "UnitPrice": 300,
+  "CustomerID": 120
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ea8"
+  },
+  "InvoiceNo": 1018,
+  "InvoiceDate": "2023-08-15T11:20:00.000Z",
+  "DayOfWeek": "Tuesday",
+  "StockCode": "SC021",
+  "Description": "Smartphone Holder",
+  "Quantity": 3,
+  "UnitPrice": 15,
+  "CustomerID": 121
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ea9"
+  },
+  "InvoiceNo": 1051,
+  "InvoiceDate": "2024-03-25T10:15:00.000Z",
+  "DayOfWeek": "Thursday",
+  "StockCode": "SC021",
+  "Description": "Gaming Mouse",
+  "Quantity": 1,
+  "UnitPrice": 35,
+  "CustomerID": 115
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eaa"
+  },
+  "InvoiceNo": 1052,
+  "InvoiceDate": "2024-03-26T11:30:00.000Z",
+  "DayOfWeek": "Friday",
+  "StockCode": "SC022",
+  "Description": "Smartwatch",
+  "Quantity": 2,
+  "UnitPrice": 120,
+  "CustomerID": 116
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eab"
+  },
+  "InvoiceNo": 1053,
+  "InvoiceDate": "2024-03-27T13:45:00.000Z",
+  "DayOfWeek": "Saturday",
+  "StockCode": "SC023",
+  "Description": "Wireless Earbuds",
+  "Quantity": 3,
+  "UnitPrice": 50,
+  "CustomerID": 117
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eac"
+  },
+  "InvoiceNo": 1054,
+  "InvoiceDate": "2024-03-28T14:20:00.000Z",
+  "DayOfWeek": "Sunday",
+  "StockCode": "SC024",
+  "Description": "Fitness Tracker",
+  "Quantity": 1,
+  "UnitPrice": 80,
+  "CustomerID": 118
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ead"
+  },
+  "InvoiceNo": 1055,
+  "InvoiceDate": "2024-03-29T09:45:00.000Z",
+  "DayOfWeek": "Monday",
+  "StockCode": "SC025",
+  "Description": "Wireless Headphones",
+  "Quantity": 2,
+  "UnitPrice": 70,
+  "CustomerID": 119
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eae"
+  },
+  "InvoiceNo": 1061,
+  "InvoiceDate": "2024-03-30T11:10:00.000Z",
+  "DayOfWeek": "Tuesday",
+  "StockCode": "SC026",
+  "Description": "Portable Charger",
+  "Quantity": 1,
+  "UnitPrice": 25,
+  "CustomerID": 120
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eaf"
+  },
+  "InvoiceNo": 1062,
+  "InvoiceDate": "2024-03-31T12:20:00.000Z",
+  "DayOfWeek": "Wednesday",
+  "StockCode": "SC027",
+  "Description": "Bluetooth Speaker",
+  "Quantity": 2,
+  "UnitPrice": 45,
+  "CustomerID": 121
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eb0"
+  },
+  "InvoiceNo": 1063,
+  "InvoiceDate": "2024-04-01T14:30:00.000Z",
+  "DayOfWeek": "Thursday",
+  "StockCode": "SC028",
+  "Description": "External Hard Drive",
+  "Quantity": 1,
+  "UnitPrice": 90,
+  "CustomerID": 122
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eb1"
+  },
+  "InvoiceNo": 1064,
+  "InvoiceDate": "2024-04-02T09:55:00.000Z",
+  "DayOfWeek": "Friday",
+  "StockCode": "SC029",
+  "Description": "Laptop Cooling Pad",
+  "Quantity": 1,
+  "UnitPrice": 20,
+  "CustomerID": 123
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eb2"
+  },
+  "InvoiceNo": 1065,
+  "InvoiceDate": "2024-04-03T10:45:00.000Z",
+  "DayOfWeek": "Saturday",
+  "StockCode": "SC030",
+  "Description": "USB Flash Drive",
+  "Quantity": 3,
+  "UnitPrice": 15,
+  "CustomerID": 124
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eb3"
+  },
+  "InvoiceNo": 1066,
+  "InvoiceDate": "2024-04-04T13:05:00.000Z",
+  "DayOfWeek": "Sunday",
+  "StockCode": "SC031",
+  "Description": "Wireless Keyboard",
+  "Quantity": 1,
+  "UnitPrice": 35,
+  "CustomerID": 125
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eb4"
+  },
+  "InvoiceNo": 1067,
+  "InvoiceDate": "2024-04-05T09:30:00.000Z",
+  "DayOfWeek": "Monday",
+  "StockCode": "SC032",
+  "Description": "Desk Organizer",
+  "Quantity": 2,
+  "UnitPrice": 10,
+  "CustomerID": 126
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eb5"
+  },
+  "InvoiceNo": 1068,
+  "InvoiceDate": "2024-04-06T11:40:00.000Z",
+  "DayOfWeek": "Tuesday",
+  "StockCode": "SC033",
+  "Description": "Wireless Mouse",
+  "Quantity": 1,
+  "UnitPrice": 30,
+  "CustomerID": 127
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eb6"
+  },
+  "InvoiceNo": 1069,
+  "InvoiceDate": "2024-04-07T14:15:00.000Z",
+  "DayOfWeek": "Wednesday",
+  "StockCode": "SC034",
+  "Description": "HDMI Cable",
+  "Quantity": 2,
+  "UnitPrice": 8,
+  "CustomerID": 128
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eb7"
+  },
+  "InvoiceNo": 1070,
+  "InvoiceDate": "2024-04-08T09:50:00.000Z",
+  "DayOfWeek": "Thursday",
+  "StockCode": "SC035",
+  "Description": "Laptop Sleeve",
+  "Quantity": 1,
+  "UnitPrice": 18,
+  "CustomerID": 129
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eb8"
+  },
+  "InvoiceNo": 1056,
+  "InvoiceDate": "2024-03-30T11:00:00.000Z",
+  "DayOfWeek": "Tuesday",
+  "StockCode": "SC026",
+  "Description": "External Hard Drive",
+  "Quantity": 1,
+  "UnitPrice": 90,
+  "CustomerID": 120
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eb9"
+  },
+  "InvoiceNo": 1057,
+  "InvoiceDate": "2024-03-31T14:30:00.000Z",
+  "DayOfWeek": "Wednesday",
+  "StockCode": "SC027",
+  "Description": "Bluetooth Speaker",
+  "Quantity": 2,
+  "UnitPrice": 60,
+  "CustomerID": 121
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eba"
+  },
+  "InvoiceNo": 1058,
+  "InvoiceDate": "2024-04-01T10:45:00.000Z",
+  "DayOfWeek": "Thursday",
+  "StockCode": "SC028",
+  "Description": "USB Flash Drive",
+  "Quantity": 3,
+  "UnitPrice": 20,
+  "CustomerID": 122
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ebb"
+  },
+  "InvoiceNo": 1059,
+  "InvoiceDate": "2024-04-02T13:15:00.000Z",
+  "DayOfWeek": "Friday",
+  "StockCode": "SC029",
+  "Description": "Wireless Keyboard",
+  "Quantity": 1,
+  "UnitPrice": 40,
+  "CustomerID": 123
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ebc"
+  },
+  "InvoiceNo": 1060,
+  "InvoiceDate": "2024-04-03T16:00:00.000Z",
+  "DayOfWeek": "Saturday",
+  "StockCode": "SC030",
+  "Description": "Portable Charger",
+  "Quantity": 2,
+  "UnitPrice": 25,
+  "CustomerID": 124
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ebd"
+  },
+  "InvoiceNo": 1061,
+  "InvoiceDate": "2024-04-04T09:30:00.000Z",
+  "DayOfWeek": "Sunday",
+  "StockCode": "SC031",
+  "Description": "Laptop Bag",
+  "Quantity": 1,
+  "UnitPrice": 35,
+  "CustomerID": 125
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ebe"
+  },
+  "InvoiceNo": 1062,
+  "InvoiceDate": "2024-04-05T12:45:00.000Z",
+  "DayOfWeek": "Monday",
+  "StockCode": "SC032",
+  "Description": "HDMI Cable",
+  "Quantity": 3,
+  "UnitPrice": 10,
+  "CustomerID": 126
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ebf"
+  },
+  "InvoiceNo": 1063,
+  "InvoiceDate": "2024-04-06T14:20:00.000Z",
+  "DayOfWeek": "Tuesday",
+  "StockCode": "SC033",
+  "Description": "Power Bank",
+  "Quantity": 2,
+  "UnitPrice": 30,
+  "CustomerID": 127
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ec0"
+  },
+  "InvoiceNo": 1064,
+  "InvoiceDate": "2024-04-07T10:00:00.000Z",
+  "DayOfWeek": "Wednesday",
+  "StockCode": "SC034",
+  "Description": "Wireless Mouse",
+  "Quantity": 1,
+  "UnitPrice": 25,
+  "CustomerID": 128
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ec1"
+  },
+  "InvoiceNo": 1065,
+  "InvoiceDate": "2024-04-08T13:40:00.000Z",
+  "DayOfWeek": "Thursday",
+  "StockCode": "SC035",
+  "Description": "Laptop Cooling Pad",
+  "Quantity": 1,
+  "UnitPrice": 20,
+  "CustomerID": 129
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ec2"
+  },
+  "InvoiceNo": 1066,
+  "InvoiceDate": "2024-04-09T10:15:00.000Z",
+  "DayOfWeek": "Friday",
+  "StockCode": "SC036",
+  "Description": "Wireless Mouse",
+  "Quantity": 2,
+  "UnitPrice": 15,
+  "CustomerID": 130
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ec3"
+  },
+  "InvoiceNo": 1067,
+  "InvoiceDate": "2024-04-09T14:30:00.000Z",
+  "DayOfWeek": "Friday",
+  "StockCode": "SC037",
+  "Description": "USB Flash Drive",
+  "Quantity": 3,
+  "UnitPrice": 10,
+  "CustomerID": 131
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ec4"
+  },
+  "InvoiceNo": 1068,
+  "InvoiceDate": "2024-04-10T11:45:00.000Z",
+  "DayOfWeek": "Saturday",
+  "StockCode": "SC038",
+  "Description": "Bluetooth Speaker",
+  "Quantity": 1,
+  "UnitPrice": 30,
+  "CustomerID": 132
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ec5"
+  },
+  "InvoiceNo": 1069,
+  "InvoiceDate": "2024-04-10T15:20:00.000Z",
+  "DayOfWeek": "Saturday",
+  "StockCode": "SC039",
+  "Description": "External Hard Drive",
+  "Quantity": 2,
+  "UnitPrice": 50,
+  "CustomerID": 133
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ec6"
+  },
+  "InvoiceNo": 1070,
+  "InvoiceDate": "2024-04-11T09:10:00.000Z",
+  "DayOfWeek": "Sunday",
+  "StockCode": "SC040",
+  "Description": "HDMI Cable",
+  "Quantity": 1,
+  "UnitPrice": 8,
+  "CustomerID": 134
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ec7"
+  },
+  "InvoiceNo": 1071,
+  "InvoiceDate": "2024-04-11T13:55:00.000Z",
+  "DayOfWeek": "Sunday",
+  "StockCode": "SC041",
+  "Description": "Wireless Keyboard",
+  "Quantity": 1,
+  "UnitPrice": 25,
+  "CustomerID": 135
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ec8"
+  },
+  "InvoiceNo": 1072,
+  "InvoiceDate": "2024-04-12T10:30:00.000Z",
+  "DayOfWeek": "Monday",
+  "StockCode": "SC042",
+  "Description": "Gaming Mouse",
+  "Quantity": 1,
+  "UnitPrice": 35,
+  "CustomerID": 136
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ec9"
+  },
+  "InvoiceNo": 1073,
+  "InvoiceDate": "2024-04-12T14:25:00.000Z",
+  "DayOfWeek": "Monday",
+  "StockCode": "SC043",
+  "Description": "Portable Charger",
+  "Quantity": 2,
+  "UnitPrice": 20,
+  "CustomerID": 137
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068eca"
+  },
+  "InvoiceNo": 1074,
+  "InvoiceDate": "2024-04-13T11:20:00.000Z",
+  "DayOfWeek": "Tuesday",
+  "StockCode": "SC044",
+  "Description": "Laptop Bag",
+  "Quantity": 1,
+  "UnitPrice": 18,
+  "CustomerID": 138
+},
+{
+  "_id": {
+    "$oid": "65fef8284799ac2454068ecb"
+  },
+  "InvoiceNo": 1075,
+  "InvoiceDate": "2024-04-13T15:45:00.000Z",
+  "DayOfWeek": "Tuesday",
+  "StockCode": "SC045",
+  "Description": "Wireless Earbuds",
+  "Quantity": 1,
+  "UnitPrice": 40,
+  "CustomerID": 139
+}]
